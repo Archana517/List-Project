@@ -1,0 +1,23 @@
+import UIKit
+
+class ViewController: UIViewController {
+
+    // Track toggle state
+    var isBlue = true
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        // Initial background color
+        self.view.backgroundColor = UIColor.blue
+    }
+
+    // IBAction connected to UIButton or UISwitch
+    @IBAction func toggleBackground(_ sender: Any) {
+        if isBlue {
+            self.view.backgroundColor = UIColor.green
+        } else {
+            self.view.backgroundColor = UIColor.blue
+        }
+        isBlue.toggle() // flip the state
+    }
+}
