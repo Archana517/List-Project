@@ -1,11 +1,3 @@
-#My Program
-##Description
-this program is about ListInterface
+## Output
 
-##Output
-Below is the output of the program:
-
-
-
-![Output](https://github.com/Archana517/List-Project/raw/main/output.png)
-
+[Click here to view output](https://github.com/Archana517/List-Project/blob/main/output.png)
