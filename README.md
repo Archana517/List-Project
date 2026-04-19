@@ -48,3 +48,21 @@ TabbedPaneDemo - https://github.com/Archana517/List-Project/blob/main/Screenshot
 FirstServlet Output Link - https://github.com/Archana517/List-Project/blob/main/Screenshot%202026-04-19%20170155.png
 
 FactorialDemo Output Link - https://github.com/Archana517/List-Project/commit/71713ab0e76f71721df7408505be04896d1050a9
+
+PrimeServlet Output Link - https://github.com/Archana517/List-Project/commit/526f91cb84aaefba9098403845c9a23c5dd03c92
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
