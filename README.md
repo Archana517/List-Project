@@ -9,3 +9,5 @@ Program 3 Output Link - https://github.com/Archana517/List-Project/blob/main/Scr
 program 4 Output Link - https://github.com/Archana517/List-Project/blob/main/p3output.png
 
 program 5 Output Link - https://github.com/Archana517/List-Project/blob/main/p5output.png
+
+program 6 Output Link  - https://github.com/Archana517/List-Project/blob/main/p6output.png
