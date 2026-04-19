@@ -1,3 +1,4 @@
-## Output
 
-[Click here to view output](https://github.com/Archana517/List-Project/blob/main/output.png)
+## Output Links
+
+Program Output Link - [Click Here](https://github.com/Archana517/List-Project/blob/main/output.png)
