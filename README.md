@@ -53,6 +53,7 @@ PrimeServlet Output Link - https://github.com/Archana517/List-Project/commit/526
 
 Cookie Servlet Output Link - https://github.com/Archana517/List-Project/commit/0c84e4bde356ad3f1d9852ebd3940ef4e7153c6e
 
+  Cookie Servlet1 Output Link - https://github.com/Archana517/List-Project/blob/main/Screenshot%202026-04-19%20185424.png
 
 
 
