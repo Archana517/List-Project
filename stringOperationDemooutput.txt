@@ -1,0 +1,23 @@
+String 1: Hello
+String 2: World
+Length of str1: 5
+Character at index 1: e
+Equals: false
+Equals Ignore Case: true
+Index of 'Prog': 5
+Contains 'Java': true
+Substring (0 to 4): Java
+Uppercase:   JAVA IS FUN  
+Lowercase:   java is fun  
+Replace:   java is awesome  
+Trimmed: 'java is fun'
+Concatenated String: Hello World
+Splitted Words:
+Java
+is
+easy
+to
+learn
+StringBuilder Result: Hi World Java
+Formatted String: My age is 20
+Valid Email
